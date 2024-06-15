@@ -30,7 +30,7 @@ programa
 			
 		}escreva("\n\nsoma:\n",soma)
 		real media
-		media = soma / 3.0
+		media = soma / 10.0
 		escreva("\n\nMédia:\n",media)	
 		
 	}
